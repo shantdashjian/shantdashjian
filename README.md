@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - 🔭 I currently mentor and train my awesome students at the [Scrimba Bootcamp](https://scrimba.com).
-- 🌱 I’m currently learning advanced React.
-- ⚡ Fun fact: I have been mentoring programmers since I was 16.
+- 🌱 My current focus is on AI Engineering.
+- ⚡ Fun fact: I have been mentoring programmers since 1994.
