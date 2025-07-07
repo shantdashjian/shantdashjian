@@ -4,4 +4,4 @@
 👥 I mentor at [Pro Coding Mentor](https://procodingmentor.com/).
 
 🎯 My current focus is on data structures and algorithms.     
-🤪 Fun fact: I have been mentoring programmers since 1994.  
+🤪 **Fun fact:** I have been mentoring programmers since **1994**.  
