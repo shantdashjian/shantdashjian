@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 📚 I teach at [Scrimba](https://scrimba.com/home?coupon=SHANT50). Check out [my courses](https://github.com/shantdashjian/my-courses).  
 👥 I mentor at [Pro Coding Mentor](https://procodingmentor.com/).
